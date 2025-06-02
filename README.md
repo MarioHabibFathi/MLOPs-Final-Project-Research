@@ -6,11 +6,16 @@ In our MLOps project, this repository is responsible for the research part. We h
 - Ideal balance for real-time game control
 
 **Jump to section:**  
-[▶ Data Loading](#data-loading) | 
-[▶ Data Visualization](#data-visualization) | 
-[▶ Data Preprocessing](#data-preprocessing) | 
-[▶ Model Training](#model-training-and-evaluation) | 
-[▶ Conclusion](#conclusion) | 
+[▶ Data Loading](#data-loading) 
+ 
+[▶ Data Visualization](#data-visualization) 
+
+[▶ Data Preprocessing](#data-preprocessing) 
+ 
+[▶ Model Training](#model-training-and-evaluation) 
+
+[▶ Conclusion](#conclusion)
+
 [▶ MediaPipe Integration](#mediapipe)
 
 <a name="data-loading"></a>

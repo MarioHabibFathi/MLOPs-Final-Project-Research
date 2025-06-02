@@ -1,0 +1,53 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+is_signature_from_type_hint: false
+mlflow_version: 2.21.2
+model_size_bytes: 1618414
+model_uuid: d0b2853418c04f88827141de8af57d97
+prompts: null
+run_id: 8b0bfebd9b7746108c5a8c4f5cfa3149
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "x1", "required": true}, {"type": "double",
+    "name": "y1", "required": true}, {"type": "double", "name": "x2", "required":
+    true}, {"type": "double", "name": "y2", "required": true}, {"type": "double",
+    "name": "x5", "required": true}, {"type": "double", "name": "y5", "required":
+    true}, {"type": "double", "name": "x6", "required": true}, {"type": "double",
+    "name": "y6", "required": true}, {"type": "double", "name": "x7", "required":
+    true}, {"type": "double", "name": "y7", "required": true}, {"type": "double",
+    "name": "x8", "required": true}, {"type": "double", "name": "y8", "required":
+    true}, {"type": "double", "name": "x9", "required": true}, {"type": "double",
+    "name": "y9", "required": true}, {"type": "double", "name": "x11", "required":
+    true}, {"type": "double", "name": "y11", "required": true}, {"type": "double",
+    "name": "x12", "required": true}, {"type": "double", "name": "y12", "required":
+    true}, {"type": "double", "name": "x13", "required": true}, {"type": "double",
+    "name": "y13", "required": true}, {"type": "double", "name": "x14", "required":
+    true}, {"type": "double", "name": "y14", "required": true}, {"type": "double",
+    "name": "x15", "required": true}, {"type": "double", "name": "y15", "required":
+    true}, {"type": "double", "name": "x16", "required": true}, {"type": "double",
+    "name": "y16", "required": true}, {"type": "double", "name": "x17", "required":
+    true}, {"type": "double", "name": "y17", "required": true}, {"type": "double",
+    "name": "x19", "required": true}, {"type": "double", "name": "y19", "required":
+    true}, {"type": "double", "name": "x20", "required": true}, {"type": "double",
+    "name": "y20", "required": true}]'
+  outputs: '[{"type": "integer", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-04-02 15:21:45.434371'

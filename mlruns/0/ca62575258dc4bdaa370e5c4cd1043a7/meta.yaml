@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/ca62575258dc4bdaa370e5c4cd1043a7/artifacts
+end_time: 1743535393452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca62575258dc4bdaa370e5c4cd1043a7
+run_name: Raw_Variant_LogisticRegression_tuning
+run_uuid: ca62575258dc4bdaa370e5c4cd1043a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743535387642
+status: 3
+tags: []
+user_id: marha

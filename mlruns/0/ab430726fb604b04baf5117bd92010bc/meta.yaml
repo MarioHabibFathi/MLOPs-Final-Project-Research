@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/ab430726fb604b04baf5117bd92010bc/artifacts
+end_time: 1743525594370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab430726fb604b04baf5117bd92010bc
+run_name: Raw_Variant_RandomForest_tuning
+run_uuid: ab430726fb604b04baf5117bd92010bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743525588494
+status: 3
+tags: []
+user_id: marha

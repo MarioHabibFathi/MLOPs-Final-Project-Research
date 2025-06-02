@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/459225194696202632/284301d028c346ae9b8941a9e951dc60/artifacts
+deleted_time: 1748608746884
+end_time: 1748607560984
+entry_point_name: ''
+experiment_id: '459225194696202632'
+lifecycle_stage: deleted
+run_id: 284301d028c346ae9b8941a9e951dc60
+run_name: monumental-quail-92
+run_uuid: 284301d028c346ae9b8941a9e951dc60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748607555072
+status: 3
+tags: []
+user_id: marha

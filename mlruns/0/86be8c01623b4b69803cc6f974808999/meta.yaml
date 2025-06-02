@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/86be8c01623b4b69803cc6f974808999/artifacts
+end_time: 1743589024014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86be8c01623b4b69803cc6f974808999
+run_name: Raw_Variant_SVM_tuning
+run_uuid: 86be8c01623b4b69803cc6f974808999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743589018740
+status: 3
+tags: []
+user_id: marha

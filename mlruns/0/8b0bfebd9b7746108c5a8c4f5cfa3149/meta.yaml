@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/8b0bfebd9b7746108c5a8c4f5cfa3149/artifacts
+end_time: 1743607311369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b0bfebd9b7746108c5a8c4f5cfa3149
+run_name: Preprocessed_Palm_Variant_SVM_tuning
+run_uuid: 8b0bfebd9b7746108c5a8c4f5cfa3149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743607305314
+status: 3
+tags: []
+user_id: marha

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/141f6b34586b4e0eb199c788e5b1bbab/artifacts
+end_time: 1743292973969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 141f6b34586b4e0eb199c788e5b1bbab
+run_name: Raw_Variant
+run_uuid: 141f6b34586b4e0eb199c788e5b1bbab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743292973847
+status: 4
+tags: []
+user_id: marha

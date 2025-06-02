@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/353770422460628937/e9f123d47bba4b91ac826b54c4f9d985/artifacts
+end_time: 1748608933544
+entry_point_name: ''
+experiment_id: '353770422460628937'
+lifecycle_stage: active
+run_id: e9f123d47bba4b91ac826b54c4f9d985
+run_name: Preprocessed_Variant_DecisionTree_tuning
+run_uuid: e9f123d47bba4b91ac826b54c4f9d985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748608925501
+status: 3
+tags: []
+user_id: marha

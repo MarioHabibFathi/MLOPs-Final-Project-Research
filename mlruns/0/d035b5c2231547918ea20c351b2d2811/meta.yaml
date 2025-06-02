@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/d035b5c2231547918ea20c351b2d2811/artifacts
+end_time: 1743446282302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d035b5c2231547918ea20c351b2d2811
+run_name: Raw_Variant_XGBoost_tuning
+run_uuid: d035b5c2231547918ea20c351b2d2811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743446272986
+status: 3
+tags: []
+user_id: marha

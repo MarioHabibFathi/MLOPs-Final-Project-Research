@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/82b37559bbd244e2b9c513c78367aee8/artifacts
+end_time: 1743545164829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82b37559bbd244e2b9c513c78367aee8
+run_name: Preprocessed_Palm_Variant_LogisticRegression_tuning
+run_uuid: 82b37559bbd244e2b9c513c78367aee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743545159288
+status: 3
+tags: []
+user_id: marha

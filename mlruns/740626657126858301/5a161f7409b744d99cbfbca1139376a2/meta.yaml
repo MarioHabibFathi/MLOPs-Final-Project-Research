@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/740626657126858301/5a161f7409b744d99cbfbca1139376a2/artifacts
+end_time: 1748612056351
+entry_point_name: ''
+experiment_id: '740626657126858301'
+lifecycle_stage: active
+run_id: 5a161f7409b744d99cbfbca1139376a2
+run_name: Preprocessed_Variant_preprocessed_run
+run_uuid: 5a161f7409b744d99cbfbca1139376a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748612028264
+status: 3
+tags: []
+user_id: marha

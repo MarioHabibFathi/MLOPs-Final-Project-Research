@@ -1,0 +1,1 @@
+{'C': 3.943484138374522, 'class_weight': None, 'fit_intercept': True, 'multi_class': 'ovr', 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 2.922906213564703e-05}

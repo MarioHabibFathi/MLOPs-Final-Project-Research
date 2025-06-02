@@ -1,0 +1,9 @@
+{
+    "C": 476.8549932052648,
+    "class_weight": "balanced",
+    "fit_intercept": false,
+    "multi_class": "multinomial",
+    "penalty": "l2",
+    "solver": "lbfgs",
+    "tol": 0.005246446088695264
+}

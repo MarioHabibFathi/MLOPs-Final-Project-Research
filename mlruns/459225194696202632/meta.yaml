@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/459225194696202632
+creation_time: 1748606950516
+experiment_id: '459225194696202632'
+last_update_time: 1748606950516
+lifecycle_stage: active
+name: bank-customer-churn

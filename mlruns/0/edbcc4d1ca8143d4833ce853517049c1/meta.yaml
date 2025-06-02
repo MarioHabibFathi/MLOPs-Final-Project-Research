@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/edbcc4d1ca8143d4833ce853517049c1/artifacts
+end_time: 1743295157228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edbcc4d1ca8143d4833ce853517049c1
+run_name: Preprocessed_Index_Variant
+run_uuid: edbcc4d1ca8143d4833ce853517049c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295137915
+status: 3
+tags: []
+user_id: marha

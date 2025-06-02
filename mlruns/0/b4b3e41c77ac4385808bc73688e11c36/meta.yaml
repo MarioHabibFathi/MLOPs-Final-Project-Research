@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/b4b3e41c77ac4385808bc73688e11c36/artifacts
+end_time: 1743518756437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4b3e41c77ac4385808bc73688e11c36
+run_name: Preprocessed_Index_Variant_DecisionTree_tuning
+run_uuid: b4b3e41c77ac4385808bc73688e11c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743518749626
+status: 3
+tags: []
+user_id: marha

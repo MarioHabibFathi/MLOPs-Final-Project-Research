@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748841055915
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1748841090499
+name: SVM preprocessed model register
+run_id: 2de279045d5c49e6882b07d3f1b3c752
+run_link: ''
+source: file:///C:/Users/marha/ML%20proj/mlruns/0/2de279045d5c49e6882b07d3f1b3c752/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/marha/ML%20proj/mlruns/0/2de279045d5c49e6882b07d3f1b3c752/artifacts/model
+user_id: null
+version: 1

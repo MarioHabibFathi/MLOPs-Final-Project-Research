@@ -1,0 +1,9 @@
+{
+    "inference_time_ms": 102.29675769805908,
+    "memory_used_mb": 0.515625,
+    "cpu_usage_percent": 10.4,
+    "precision": 0.918303563973715,
+    "recall": 0.916919325964865,
+    "f1_score": 0.9169695926810534,
+    "accuracy": 0.9170399221032133
+}

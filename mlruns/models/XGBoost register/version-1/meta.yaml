@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748840817611
+current_stage: Production
+description: ''
+last_updated_timestamp: 1748840870317
+name: XGBoost register
+run_id: fbca70d7a6b3413cb8b679747da3822e
+run_link: ''
+source: file:///C:/Users/marha/ML%20proj/mlruns/0/fbca70d7a6b3413cb8b679747da3822e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/marha/ML%20proj/mlruns/0/fbca70d7a6b3413cb8b679747da3822e/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marha/ML%20proj/mlruns/0/359015022581416fac23f3bac92a9599/artifacts
+end_time: 1743293196566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 359015022581416fac23f3bac92a9599
+run_name: Preprocessed_Palm_Variant
+run_uuid: 359015022581416fac23f3bac92a9599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743293178101
+status: 3
+tags: []
+user_id: marha

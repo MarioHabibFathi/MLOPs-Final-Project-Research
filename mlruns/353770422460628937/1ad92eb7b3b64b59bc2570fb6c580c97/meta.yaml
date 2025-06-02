@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/353770422460628937/1ad92eb7b3b64b59bc2570fb6c580c97/artifacts
+end_time: 1748608940146
+entry_point_name: ''
+experiment_id: '353770422460628937'
+lifecycle_stage: active
+run_id: 1ad92eb7b3b64b59bc2570fb6c580c97
+run_name: trusting-cat-188
+run_uuid: 1ad92eb7b3b64b59bc2570fb6c580c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748608933592
+status: 3
+tags: []
+user_id: marha
